@@ -7,7 +7,7 @@ root = customtkinter.CTk()
 root.geometry("500x350")
 
 def login():
-    print('Test')
+    print('Just a test! :D')
 
 
 frame = customtkinter.CTkFrame(master=root)
