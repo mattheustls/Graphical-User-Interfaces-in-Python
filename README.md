@@ -1,2 +1,2 @@
 # Modern Graphical User Interfaces in Python
- modern-looking graphical user interfaces (GUIs) in Python.
+ This is a project from youtube - modern-looking graphical user interfaces (GUIs) in Python.
